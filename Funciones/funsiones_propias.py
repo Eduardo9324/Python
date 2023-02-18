@@ -53,18 +53,3 @@ def generar_contraseña(longitud=8):
   return contraseña
 # Recibe numeros como argumento
 generar_contraseña(1121904064)
-
-
-#PASAR A UN ARCHIVO JS
-""" const random = require('random');
-const string = require('string');
-
-function generarContraseña(longitud = 8) {
-  const caracteresSeguros = string.ascii + string.digits + string.punctuation;
-  longitud = Math.min(longitud, 10);
-  const contraseña = Array.from({ length: longitud }, () =>
-    random.choice(caracteresSeguros)
-  ).join('');
-  console.log(`Tu nueva contraseña es: ${contraseña}`);
-  return contraseña;
-} """

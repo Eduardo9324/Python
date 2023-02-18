@@ -1,0 +1,17 @@
+Los datos son: 
+
+Nombre: Cristian
+Apellido: Cruz
+-----------
+Nombre: Eduardo
+Apellido: Toro
+-----------
+Nombre: Juan
+Apellido: Gomez
+-----------
+Nombre: Jose
+Apellido: Vargas
+-----------
+Nombre: Marcela
+Apellido: Castro
+-----------
